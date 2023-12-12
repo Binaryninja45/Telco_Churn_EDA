@@ -1,5 +1,3 @@
-# Telco_Churn_EDA
-
 # Telco Customer Churn Exploratory Data Analysis
 
 ## Overview
