@@ -4,8 +4,8 @@
 This Jupyter Notebook presents a comprehensive Exploratory Data Analysis (EDA) on a dataset from a telecommunications company, focusing on customer churn. The project aims to uncover insights into factors contributing to customer churn and identify trends and patterns within the data.
 
 ## Features
-__Data Loading and Inspection:__ The notebook starts with loading the dataset using pandas and displays the first few rows for a preliminary inspection.
-__Data Cleaning and Preprocessing:__ Key steps in data cleaning and preprocessing are covered to ensure the data is suitable for analysis.
+__Data Loading and Inspection:__ The notebook starts with loading the dataset using pandas and displays the first few rows for a preliminary inspection.</br>
+__Data Cleaning and Preprocessing:__ Key steps in data cleaning and preprocessing are covered to ensure the data is suitable for analysis.</br
 __Exploratory Data Analysis:__ In-depth EDA is performed using various statistical methods and visualizations to understand the data better and draw meaningful conclusions about customer churn.
 
 ## Libraries Used
