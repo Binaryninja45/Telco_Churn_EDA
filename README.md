@@ -5,7 +5,7 @@ This Jupyter Notebook presents a comprehensive Exploratory Data Analysis (EDA) o
 
 ## Features
 __Data Loading and Inspection:__ The notebook starts with loading the dataset using pandas and displays the first few rows for a preliminary inspection.</br>
-__Data Cleaning and Preprocessing:__ Key steps in data cleaning and preprocessing are covered to ensure the data is suitable for analysis.</br
+__Data Cleaning and Preprocessing:__ Key steps in data cleaning and preprocessing are covered to ensure the data is suitable for analysis.</br>
 __Exploratory Data Analysis:__ In-depth EDA is performed using various statistical methods and visualizations to understand the data better and draw meaningful conclusions about customer churn.
 
 ## Libraries Used
